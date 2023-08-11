@@ -3,5 +3,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=css,git,github,html,heroku,js,jest,jquery,nodejs,react,tailwind,vercel,vite,vscode,webpack)](https://skillicons.dev)
 
-- 🔭 I’m currently working on [Note-Tracker](https://github.com/AndyAnza/Note-Tracker-C11)
-- 🌱 I’m currently learning **MySQL**
+- 🔭 I’m currently working on [Expenses-Project-React](https://github.com/AndyAnza/Expenses-Project-React)
+- 🌱 I’m currently learning **React.js**
